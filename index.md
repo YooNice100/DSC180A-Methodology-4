@@ -19,7 +19,7 @@ title: Methodology Assignment 4
 The most interesting topic was understanding how single-site events (SSE) can help prove neutrinoless double-beta decay. I liked learning how waveform data distinguishes SSE from multi-site events (MSE) through parameters like AvsE and LQ80, and how that connects to detecting a Majorana neutrino.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**  
-I’d like to explore creating or testing new waveform-based parameters such as Tail Flattening Ratio or Current Waveform Skewness to improve SSE–MSE separation. Comparing their effectiveness with existing metrics could lead to stronger background rejection and clearer signal isolation.
+I’d like to explore creating or testing new waveform-based parameters such as Tail Flattening Ratio or Current Waveform Skewness to improve SSE–MSE separation. Comparing their effectiveness with existing metrics could lead to stronger background rejection and clearer signal isolation.ddddddd
 
 **3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**  
 I would focus on engineering new combined features—pairing parameters that individually aren’t significant but could become meaningful together. This could reveal hidden relationships between waveform characteristics and improve model performance.
